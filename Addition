@@ -6,3 +6,5 @@ num2 = int(input('Enter the second number '))
 
 Sum = sumOfTwoNumbers(num1, num2)
 print('The sum is ', Sum)
+
+NICE1
